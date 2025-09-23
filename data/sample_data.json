@@ -1,0 +1,79 @@
+{
+  "vocabulary": {
+    "daily_life": [
+      {"japanese": "おはよう", "hiragana": "おはよう", "english": "Good morning", "vietnamese": "Chào buổi sáng", "level": "beginner"},
+      {"japanese": "こんにちは", "hiragana": "こんにちは", "english": "Hello", "vietnamese": "Xin chào", "level": "beginner"},
+      {"japanese": "こんばんは", "hiragana": "こんばんは", "english": "Good evening", "vietnamese": "Chào buổi tối", "level": "beginner"},
+      {"japanese": "ありがとう", "hiragana": "ありがとう", "english": "Thank you", "vietnamese": "Cảm ơn", "level": "beginner"},
+      {"japanese": "すみません", "hiragana": "すみません", "english": "Excuse me/Sorry", "vietnamese": "Xin lỗi", "level": "beginner"},
+      {"japanese": "はじめまして", "hiragana": "はじめまして", "english": "Nice to meet you", "vietnamese": "Rất vui được gặp bạn", "level": "beginner"},
+      {"japanese": "さようなら", "hiragana": "さようなら", "english": "Goodbye", "vietnamese": "Tạm biệt", "level": "beginner"},
+      {"japanese": "お疲れ様", "hiragana": "おつかれさま", "english": "Good work/Thank you for your hard work", "vietnamese": "Cảm ơn bạn đã làm việc chăm chỉ", "level": "intermediate"}
+    ],
+    "food": [
+      {"japanese": "食べ物", "hiragana": "たべもの", "english": "Food", "vietnamese": "Thức ăn", "level": "beginner"},
+      {"japanese": "水", "hiragana": "みず", "english": "Water", "vietnamese": "Nước", "level": "beginner"},
+      {"japanese": "お茶", "hiragana": "おちゃ", "english": "Tea", "vietnamese": "Trà", "level": "beginner"},
+      {"japanese": "ご飯", "hiragana": "ごはん", "english": "Rice/Meal", "vietnamese": "Cơm", "level": "beginner"},
+      {"japanese": "パン", "hiragana": "パン", "english": "Bread", "vietnamese": "Bánh mì", "level": "beginner"},
+      {"japanese": "魚", "hiragana": "さかな", "english": "Fish", "vietnamese": "Cá", "level": "beginner"},
+      {"japanese": "肉", "hiragana": "にく", "english": "Meat", "vietnamese": "Thịt", "level": "beginner"},
+      {"japanese": "野菜", "hiragana": "やさい", "english": "Vegetables", "vietnamese": "Rau", "level": "beginner"}
+    ],
+    "family": [
+      {"japanese": "家族", "hiragana": "かぞく", "english": "Family", "vietnamese": "Gia đình", "level": "beginner"},
+      {"japanese": "お父さん", "hiragana": "おとうさん", "english": "Father", "vietnamese": "Bố", "level": "beginner"},
+      {"japanese": "お母さん", "hiragana": "おかあさん", "english": "Mother", "vietnamese": "Mẹ", "level": "beginner"},
+      {"japanese": "兄", "hiragana": "あに", "english": "Older brother", "vietnamese": "Anh trai", "level": "beginner"},
+      {"japanese": "姉", "hiragana": "あね", "english": "Older sister", "vietnamese": "Chị gái", "level": "beginner"},
+      {"japanese": "弟", "hiragana": "おとうと", "english": "Younger brother", "vietnamese": "Em trai", "level": "beginner"},
+      {"japanese": "妹", "hiragana": "いもうと", "english": "Younger sister", "vietnamese": "Em gái", "level": "beginner"}
+    ]
+  },
+  "grammar_points": {
+    "particles": [
+      {
+        "particle": "は",
+        "usage": "Topic marker",
+        "example": "私は学生です。",
+        "translation": "I am a student.",
+        "explanation": "Marks the topic of the sentence"
+      },
+      {
+        "particle": "を",
+        "usage": "Direct object marker", 
+        "example": "本を読みます。",
+        "translation": "I read a book.",
+        "explanation": "Marks the direct object of the sentence"
+      },
+      {
+        "particle": "に",
+        "usage": "Direction, time, purpose",
+        "example": "学校に行きます。",
+        "translation": "I go to school.",
+        "explanation": "Indicates direction or destination"
+      }
+    ]
+  },
+  "conversation_scenarios": {
+    "greeting": {
+      "title": "Basic Greetings",
+      "dialogue": [
+        {"speaker": "A", "japanese": "おはようございます", "english": "Good morning", "vietnamese": "Chào buổi sáng"},
+        {"speaker": "B", "japanese": "おはようございます", "english": "Good morning", "vietnamese": "Chào buổi sáng"},
+        {"speaker": "A", "japanese": "今日はいい天気ですね", "english": "It's nice weather today", "vietnamese": "Hôm nay thời tiết đẹp nhỉ"},
+        {"speaker": "B", "japanese": "そうですね", "english": "Yes, it is", "vietnamese": "Đúng vậy"}
+      ]
+    },
+    "restaurant": {
+      "title": "Ordering at a Restaurant",
+      "dialogue": [
+        {"speaker": "Waiter", "japanese": "いらっしゃいませ", "english": "Welcome", "vietnamese": "Xin chào quý khách"},
+        {"speaker": "Customer", "japanese": "メニューをお願いします", "english": "Menu please", "vietnamese": "Cho tôi xem thực đơn"},
+        {"speaker": "Waiter", "japanese": "はい、どうぞ", "english": "Here you are", "vietnamese": "Dạ, mời quý khách"},
+        {"speaker": "Customer", "japanese": "ラーメンをお願いします", "english": "Ramen please", "vietnamese": "Cho tôi một tô ramen"},
+        {"speaker": "Waiter", "japanese": "かしこまりました", "english": "Certainly", "vietnamese": "Dạ, được ạ"}
+      ]
+    }
+  }
+}

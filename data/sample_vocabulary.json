@@ -1,0 +1,22 @@
+{
+  "daily_life": [
+    {
+      "japanese": "おはよう",
+      "hiragana": "おはよう",
+      "english": "Good morning",
+      "vietnamese": "Chào buổi sáng"
+    },
+    {
+      "japanese": "こんにちは",
+      "hiragana": "こんにちは",
+      "english": "Hello",
+      "vietnamese": "Xin chào"
+    },
+    {
+      "japanese": "ありがとう",
+      "hiragana": "ありがとう",
+      "english": "Thank you",
+      "vietnamese": "Cảm ơn"
+    }
+  ]
+}

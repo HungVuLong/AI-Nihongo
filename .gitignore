@@ -50,12 +50,15 @@ Thumbs.db
 *.log
 logs/
 
-# Data files
-data/
-*.csv
-*.json
-*.pkl
-*.pickle
+# Data files (exclude user data but allow sample data)
+data/progress/
+data/*.csv
+data/*.pkl
+data/*.pickle
+
+# Allow sample data files
+!data/sample_*.json
+!data/sample_*.csv
 
 # Model files
 models/
